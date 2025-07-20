@@ -112,7 +112,7 @@ export default function Home() {
             <p className="hero-subtitle">
               انضم إلى دورة حفظ القرآن الكريم الصيفية الإلكترونية
               <br />
-              بإشراف مشايخ مؤهلين - مسجد الإمام مالك
+              بإشراف مشايخ مؤهلين 
             </p>
             
             <motion.button
